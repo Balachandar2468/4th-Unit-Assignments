@@ -10,14 +10,14 @@ import './App.css';
 //import input_to_do_list from './Component_day_2_Assignment_2/Input';
 //const[showCounter,setShowCounter] = useState(true);
 //import Buttons from './Component_day_part_2/Buttons.jsx';
-//import List from './Component/Day_1/List.jsx'
-//import Setting from './Component/Day_1/Settings.jsx'
-//import Login from './Component/Day_1/Login.jsx';
-//import Contact from './Component/Day_1/Contact';
-//import Search from './Component/Day_1/Search';
-//import Help from './Component/Day_1/Help';
-//import Home from './Component/Day_1/Home';
-//import Download from './Component/Day_1/Download';
+import List from './Component/Day_1_React_assignment/List.jsx'
+import Setting from './Component/Day_1_React_assignment/Settings.jsx'
+import Login from './Component/Day_1_React_assignment/Login.jsx';
+import Contact from './Component/Day_1_React_assignment/Contact';
+import Search from './Component/Day_1_React_assignment/Search';
+import Help from './Component/Day_1_React_assignment/Help';
+import Home from './Component/Day_1_React_assignment/Home';
+import Download from './Component/Day_1_React_assignment/Download';
 //import input_box from './Component_day_2_Assignment/input.jsx';
 //import Input from './Component_day_2_Assignment/Input';
 
