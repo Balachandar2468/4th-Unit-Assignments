@@ -1,0 +1,86 @@
+#box{
+    position: absolute;
+    top: -30%;
+    left: 0%;
+    width: 570px;
+    height: 350px;
+    max-width: 120%;
+    max-height: 120%;
+    background-color: #FF9900;
+}
+#logo_box{
+    position: absolute;
+    top: 10%;
+    left: 75%;
+    width: 90px;
+    height: 100px;
+    max-width: 20%;
+    max-height: 25%;
+    min-width: 5%;
+    min-height: 7%;
+    background-color: transparent;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+#date{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 120px;
+    height: 10px;
+    max-width: 25%;
+    max-height: 25%;
+    min-width: 5%;
+    min-height: 7%;
+    background-color: transparent;
+}
+#case{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    width: 120px;
+    height: 35px;
+    max-width: 25%;
+    max-height: 25%;
+    min-width: 5%;
+    min-height: 7%;
+    background-color: black;
+}
+#Title{
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    width: 250px;
+    height: 50px;
+    max-width: 60%;
+    max-height: 25%;
+    min-width: 5%;
+    min-height: 7%;
+    background-color: transparent;
+}
+#device{
+    position: absolute;
+    top: 90%;
+    left: 5%;
+    width: 250px;
+    height: 10px;
+    max-width: 60%;
+    max-height: 25%;
+    min-width: 5%;
+    min-height: 7%;
+    background-color: transparent;
+}
+#arrow{
+    position: absolute;
+    top: 90%;
+    left: 85%;
+    width: 60px;
+    height: 10px;
+    max-width: 60%;
+    max-height: 25%;
+    min-width: 5%;
+    min-height: 7%;
+    background-color: transparent;
+}
